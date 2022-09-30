@@ -1,7 +1,7 @@
 #### free
 will be updating this repository soon to work again
 
-<h2 align="center">server: <a href="https://discord.gg/4yNqBRpv7t">(https://discord.gg/4yNqBRpv7t)p</a></h2>
+<h2 align="center">server: <a href="https://discord.gg/4yNqBRpv7t">https://discord.gg/4yNqBRpv7t</a></h2>
 
 <!--
 <p align="center">
