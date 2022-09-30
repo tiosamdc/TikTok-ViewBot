@@ -1,7 +1,7 @@
 #### Paid unpatched viewbot for 24.99€ !!: https://onlp.sellix.io or in dc server 
 will be updating this repository soon to work again
 
-<h2 align="center">server: <a href="https://discord.gg/onlp">discord.gg/onlp</a></h2>
+<h2 align="center">server: <a href="https://discord.gg/4yNqBRpv7t">discord.gg/onlp</a></h2>
 
 <!--
 <p align="center">
@@ -10,8 +10,6 @@ will be updating this repository soon to work again
 -->
 
 &emsp;
-
-<h2 align="center">tutorial: <a href="https://www.youtube.com/watch?v=x97aLsPSJtQ">youtube.com/watch?v=x97aLsPSJtQ</a></h2>
 
 <!--
 <p align="center">
@@ -39,11 +37,6 @@ will be updating this repository soon to work again
 <img src="https://cdn.discordapp.com/attachments/979095432682676264/996481048605106186/unknown.png"></img>
 </p>
 
-skids:
-```
-  https://github.com/XNorealsS/tiktokbot-view
-  https://github.com/haphucduy28/1/blob/main/viewtiktok.py
-```
 
 How to run:
 ```
