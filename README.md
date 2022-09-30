@@ -1,4 +1,4 @@
-#### Paid unpatched viewbot for 24.99€ !!: https://onlp.sellix.io or in dc server 
+#### free
 will be updating this repository soon to work again
 
 <h2 align="center">server: <a href="https://discord.gg/4yNqBRpv7t">discord.gg/onlp</a></h2>
